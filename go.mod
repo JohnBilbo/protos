@@ -1,4 +1,4 @@
-module github.com/GolangLessons/protos
+module github.com/JohnBilbo/protos
 
 go 1.20
 
